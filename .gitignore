@@ -1,0 +1,8 @@
+.DS_Store
+*.pdf
+*.png
+*.class
+*.java
+output/
+images/
+frames/
